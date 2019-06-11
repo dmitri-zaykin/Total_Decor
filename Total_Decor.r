@@ -1,3 +1,6 @@
+# Sample code for the DOT:
+# https://doi.org/10.1101/665133
+#
 library(MASS)
 library(Matrix)
 library(CompQuadForm)
