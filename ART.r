@@ -1,5 +1,5 @@
 # Sample code for ART, ART-A, and RTP
-# https://www.biorxiv.org/content/10.1101/667238v1
+# https://doi.org/10.1101/667238
 #
 library(MASS)
 library(mvtnorm)
